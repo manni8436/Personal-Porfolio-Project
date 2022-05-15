@@ -61,6 +61,8 @@ body {
 /* footer */
 
 .footer {
+    color: #2F78C5;
+    text-align: center;
     margin-top: 2rem;
     border-top: #2F78C5 3px solid;
 }
@@ -75,6 +77,8 @@ body {
     font-size: 48px;
     display: inline;
 }
+
+/* dark and light mode */
 
 .light-mode {
     background-color: #fff;
